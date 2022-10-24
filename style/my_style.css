@@ -1,0 +1,29 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', sans-serif;
+}
+
+.connection-check {
+    font-size: 1.5rem;
+    padding: 1rem;
+    font-weight: 500;
+    color: #198754;
+}
+
+.row-counter {
+    font-weight: 500;
+    color: #0d6efd;
+    padding: 1.5rem;
+}
+
+.course {
+    border: 1px solid black;
+    width: 50%;
+    padding: .5rem;
+    margin: 1rem 1rem;
+}
